@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Righteous', cursive;
+}
+
+body{
+    background-color: #F7F7F7;
+}
+
+.navbar-collapse .jg{
+    color: #75CC5E !important
+}
+.navbar-collapse .ht{
+    color: #EF683E !important
+}
+.navbar-collapse .op{
+    color: #B0438A !important
+}
+.navbar-collapse .cl{
+    color: #000000 !important
+}
+.navbar-collapse .jg:hover,
+.navbar-collapse .ht:hover,
+.navbar-collapse .op:hover,
+.navbar-collapse .cl:hover{
+    color: #5eccc3 !important
+}

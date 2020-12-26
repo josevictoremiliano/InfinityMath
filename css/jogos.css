@@ -1,0 +1,52 @@
+.j-principal{
+    margin-top: 60px;
+}
+.j-principal img{
+    height: 388px;
+    size: cover;
+    transition: 0.6ms;
+}
+.j-principal img:hover{
+    opacity: 0.9;
+    transform: scale(0.99)}
+.j-principal a{
+    text-decoration: none;
+    transition: 0.6ms;
+}
+.j-principal a:hover{
+    color: black
+}
+
+.jogo01 .quadrado{
+    text-align: center;
+    margin: 10px;
+    padding: 15px;
+    background-color: #C4C4C4;
+    border-radius: 6px;
+}
+.jogo01 input{
+    height: 60px;
+    padding: 5px;
+
+    border-radius: 6px;
+}
+.jogo01 .texto{
+    padding-top: 15px ;
+    text-align: center;
+    color: black;
+}
+.numeros input{
+    text-align: center;
+    color: black;
+}
+.jogo01 .btn{
+    background: rgb(150, 255, 118);
+    margin-top: 10px;
+    margin-left: 50px;
+
+    transition:background 0.6s;
+}
+.jogo01 .btn:hover{
+    background: rgb(105, 177, 83);
+    color: white;
+}
